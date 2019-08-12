@@ -1,0 +1,15 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "online test platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Nikhil Inpure",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  },
+  "homepage": "/"
+}
