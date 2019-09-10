@@ -1,0 +1,20 @@
+{
+  "users":[
+    {
+      "id":"1",
+      "username":"user1",
+      "email":"user1@otp.com",
+      "password":"user@1",
+      "mobileNumber":"1234567890",
+      "role":"A"
+    },
+     {
+      "id":"2",
+      "username":"user2",
+      "email":"user2@otp.com",
+      "password":"user@2",
+      "mobileNumber":"9876543210",
+      "role":"S"
+    }
+  ]
+}
